@@ -9,4 +9,5 @@ Logical fallacy online detector tools available:
 Please see for more details: https://www.logical-fallacy.com/logical-fallacies-detectors/
 
 List of logical fallacies this AI can detect (with some probability): https://www.logical-fallacy.com/list-of-logical-fallacies/
+
 List of all articles and news: https://www.logical-fallacy.com/post/
