@@ -15,3 +15,9 @@ List of all articles and news: https://www.logical-fallacy.com/post/
 ---
 
 Here we will publish client libraries
+
+Todo:
+
+- Native App
+- Chart tool
+- Random tool
