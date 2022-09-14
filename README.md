@@ -25,7 +25,7 @@ The repo is from: https://github.com/causalNLP/logical-fallacy, of date: 6 Septe
 
 ### Fixed Logical Fallacy Dataset
 
-There is quite a lot of fixes required to make it work better, in detail described in ...,
+There is quite a lot of fixes required to make it work better, in detail described in https://www.logical-fallacy.com/articles/dataset-review/,
 first of all - cleaning and fixing the dataset.
 
 More then 100 entries were updated or plainly removed.
