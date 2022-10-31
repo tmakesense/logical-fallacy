@@ -4,6 +4,7 @@
 
 Logical fallacy online detector tools available:
 
+- Android App Logical Fallacy Detector (https://www.logical-fallacy.com/articles/detector-android-app/) available on google playstore: https://play.google.com/store/apps/details?id=com.logical_fallacy.app_detector
 - Twitter bot https://twitter.com/falldetector1 detects logical fallacies in tweets
 - Twitter bot https://twitter.com/Makesensenews1 posts daily news and weekly analysis on australian news based on logical fallacies concentration in tweet comments
 - MakeSense Alexa skill
@@ -35,13 +36,14 @@ The fixed version of the dataset is in https://github.com/tmakesense/logical-fal
 
 https://github.com/hovancik/logical-fallacies-bot
 
-Is actually not detecting but describing logical fallacies on reddit.  You type keyword sequence in comments and bot generates a post.
+Is actually not detecting but describing logical fallacies on reddit. You type keyword sequence in comments and bot generates a post.
 
 ## Client Libraries
 
 Here we will publish client libraries
 
 Todo:
-  * Native App
-  * Chart tool
-  * Random tool
+
+- IOS Native App
+- Chart tool
+- Random tool
